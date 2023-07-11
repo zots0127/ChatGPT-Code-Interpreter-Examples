@@ -37,11 +37,12 @@ ChatGPT代码解释器不仅仅是一个工具，它是一个学习伙伴。如�
 
 以下是一些真实的使用ChatGPT代码解释器的案例：
 
-- **中国各省GDP数据可视化** [数据来源](https://www.kaggle.com/datasets/concyclics/chinas-gdp-in-province)
-指令：请帮助我分析这些数据，并制作尽可能多和有效的可视化图像，你不仅需要显示所有可视化图像，还需要将所有可视化图像保存为图片并压缩后发送给我。
-![GDP1](images//gdp/gdp_animation.gif)
-![GDP2](images/gdp2.jpg)
-![GDP3](images/gdp3.jpg)
+- **中国各省GDP数据可视化** [数据来源](https://www.kaggle.com/datasets/concyclics/chinas-gdp-in-province) [聊天记录](https://chat.openai.com/share/08c5aeb4-cfa1-4cba-9c87-ee0271658fd7)
+
+![GDP1](images/gdp/gdp_animation.gif)
+![GDP2](images/gdp/gdp_animation_top_10.gif)
+![GDP3](images/gdp/gdp_animation_top_10_larger_interval.gif)
+
 ## 安全措施
 
 ChatGPT代码解释器在一个没有互联网访问的安全环境中运行。这确保在会话期间不能进行未经授权的网络请求或API调用。执行环境也是有状态的，这意味着在不同的代码执行中会记住变量和函数，从而提供无缝的编码体验。
