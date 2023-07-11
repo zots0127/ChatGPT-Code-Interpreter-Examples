@@ -30,8 +30,7 @@ Here are some real-world examples of using the ChatGPT Code Interpreter:
 
 Prompt: Please help me analyze this data and perform as many effective visualizations as possible. You need to not only display all the visualization results, but also save all the visualization results as images, compress them, and send them to me.
 
-![ECG1](images/ecg/plots/1689096832160.png)
-![ECG2](images/ecg/plots/feature_correlation_heatmap.png)
+![ECG1](images/ecg/plots/plot_images.gif)
 ## Safety Measures
 
 ChatGPT Code Interpreter operates in a secure environment with no internet access. This ensures that no unauthorized web requests or API calls can be made during a session. The execution environment is also stateful, which means variables and functions are remembered across different code executions, allowing for a seamless coding experience.

@@ -31,8 +31,8 @@ ChatGPT 代码解释器是一个强大的功能，它将OpenAI的GPT-3模型的�
 
 提示词：请帮我分析这个数据并进行尽可能多且有效的可视化，你不仅需要显示所有的可视化结果，并且还需要将所有可视化结果保存为图片并压缩后发送给我。
 
-![ECG1](images/ecg/plots/1689096832160.png)
-![ECG2](images/ecg/plots/feature_correlation_heatmap.png)
+![ECG1](images/ecg/plots/plot_images.gif)
+
 
 ## 安全措施
 
