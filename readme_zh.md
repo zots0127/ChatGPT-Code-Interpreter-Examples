@@ -39,7 +39,7 @@ ChatGPT代码解释器不仅仅是一个工具，它是一个学习伙伴。如�
 
 - **中国各省GDP数据可视化** [数据来源](https://www.kaggle.com/datasets/concyclics/chinas-gdp-in-province)
 指令：请帮助我分析这些数据，并制作尽可能多和有效的可视化图像，你不仅需要显示所有可视化图像，还需要将所有可视化图像保存为图片并压缩后发送给我。
-![GDP1](images/gdp1.jpg)
+![GDP1](images//gdp/gdp_animation.gif)
 ![GDP2](images/gdp2.jpg)
 ![GDP3](images/gdp3.jpg)
 ## 安全措施
