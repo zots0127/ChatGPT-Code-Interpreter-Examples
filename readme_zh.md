@@ -41,6 +41,12 @@ ChatGPT代码解释器不仅仅是一个工具，它是一个学习伙伴。如�
 
 ![GDP1](images/gdp/gdp_animation_top_10_larger_interval_loop.gif)
 
+- **心脏疾病ECG数据分析** [数据来源](https://www.kaggle.com/datasets/akki2703/ecg-of-cardiac-ailments-dataset)
+
+提示词：请帮我分析这个数据并进行尽可能多且有效的可视化，你不仅需要显示所有的可视化结果，并且还需要将所有可视化结果保存为图片并压缩后发送给我。
+
+![ECG1](images/ecg/plots/1689096832160.png)
+![ECG2](images/ecg/plots/feature_correlation_heatmap.png)
 
 ## 安全措施
 

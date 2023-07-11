@@ -40,7 +40,12 @@ Here are some real-world examples of using the ChatGPT Code Interpreter:
 - **Visualization of GDP Data for Provinces in China** [Data Source](https://www.kaggle.com/datasets/concyclics/chinas-gdp-in-province) [Chat Log](https://chat.openai.com/share/08c5aeb4-cfa1-4cba-9c87-ee0271658fd7)
 
 ![GDP1](images/gdp/gdp_animation_top_10_larger_interval_loop.gif)
+- **Analysis of ECG Data for Cardiac Ailments** [Data Source](https://www.kaggle.com/datasets/akki2703/ecg-of-cardiac-ailments-dataset)
 
+Prompt: Please help me analyze this data and perform as many effective visualizations as possible. You need to not only display all the visualization results, but also save all the visualization results as images, compress them, and send them to me.
+
+![ECG1](images/ecg/plots/1689096832160.png)
+![ECG2](images/ecg/plots/feature_correlation_heatmap.png)
 ## Safety Measures
 
 ChatGPT Code Interpreter operates in a secure environment with no internet access. This ensures that no unauthorized web requests or API calls can be made during a session. The execution environment is also stateful, which means variables and functions are remembered across different code executions, allowing for a seamless coding experience.
