@@ -33,6 +33,15 @@ Here are a few examples of how you can use the ChatGPT Code Interpreter:
 - **Example: Data Analysis** You can perform complex data manipulations using libraries like pandas. For example, you can ask, "What is the mean of this list of numbers?" and the model will calculate it for you.
 
 - **Example: Learning Python** If you're learning Python, you can ask the model to provide explanations or generate code snippets for specific concepts. For example, "Show me how to write a for loop in Python."
+## Real-World Examples
+
+Here are some real-world examples of using the ChatGPT Code Interpreter:
+
+- **Visualization of GDP Data for Provinces in China** [Data Source](https://www.kaggle.com/datasets/concyclics/chinas-gdp-in-province)
+
+![GDP1](images/gdp1.jpg)
+![GDP2](images/gdp2.jpg)
+![GDP3](images/gdp3.jpg)
 
 ## Safety Measures
 
