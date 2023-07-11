@@ -39,9 +39,7 @@ Here are some real-world examples of using the ChatGPT Code Interpreter:
 
 - **Visualization of GDP Data for Provinces in China** [Data Source](https://www.kaggle.com/datasets/concyclics/chinas-gdp-in-province) [Chat Log](https://chat.openai.com/share/08c5aeb4-cfa1-4cba-9c87-ee0271658fd7)
 
-![GDP1](images/gdp/gdp_animation.gif)
-![GDP2](images/gdp/gdp_animation_top_10.gif)
-![GDP3](images/gdp/gdp_animation_top_10_larger_interval.gif)
+![GDP1](images/gdp/gdp_animation_top_10_larger_interval_loop.gif)
 
 ## Safety Measures
 
